@@ -2,7 +2,7 @@
 # **Troka – Plataforma de Troca para Estudantes Universitários**
 
 ## **Objetivo**
-Criar uma plataforma para estudantes universitários **trocarem, doarem ou venderem objetos**, incentivando economia, sustentabilidade e interação dentro da comunidade acadêmica.
+Criar uma plataforma para estudantes universitários **trocarem, doarem ou venderem objetos**, incentivando economia, sustentabilidade e interação dentro da comunidade académica.
 
 ---
 
